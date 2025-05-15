@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! I am a dedicated smart contract auditor and deve
 
 ## 🛡️ About Me
 
-<b>Smart Contract Auditing:</b> Proficient in conducting thorough audits of smart contracts to identify security vulnerabilities, inefficiencies, and compliance issues.
+<b>Smart Contract Audit:</b> Proficient in conducting thorough audits of smart contracts to identify security vulnerabilities, inefficiencies, and compliance issues.
 
 <b>Smart Contract Development:</b> Experienced in designing, developing, testing, and deploying smart contracts on various blockchain platforms, utilizing languages such as Solidity, Vyper, Rust, and Move.
 
